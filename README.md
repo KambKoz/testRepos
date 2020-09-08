@@ -1,6 +1,5 @@
 # testRepos
 
-dedit
 
 ## editing this file
 
